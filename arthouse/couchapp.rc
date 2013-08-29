@@ -1,0 +1,10 @@
+{
+  "env": {
+    "local": {
+      "db": "http://127.0.0.1:5984/arthouse"
+    },
+    "cloudant": {
+      "db": "https://uposeadighlybritauseaces:PNoqHYrWCTqsJGbXhfHlke0n@eddydavila.cloudant.com/arthouse"
+    }
+  }
+}
